@@ -1,2 +1,2 @@
 # Da..nge..rous-virus-for-windows
-A dangerous Python virus that destroys Windows☠️. Strictly refrain from running this program.
+A dan..ger.ous Python virus that destroys Windows☠️. Strictly refrain from running this program.
